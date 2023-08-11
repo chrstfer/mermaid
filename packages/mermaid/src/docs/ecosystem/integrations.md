@@ -53,6 +53,7 @@ They also serve as proof of concept, for the variety of things that can be built
 - [JetBrains IDE eg Pycharm](https://www.jetbrains.com/go/guide/tips/mermaid-js-support-in-markdown/)
 - [mermerd](https://github.com/KarnerTh/mermerd)
 - Visual Studio Code [Polyglot Interactive Notebooks](https://github.com/dotnet/interactive#net-interactive)
+- [ChatGPT+Plugins](https://platform.openai.com/docs/plugins/introduction) now speaks mermaid.
 
 ## CRM/ERP/Similar
 
@@ -71,7 +72,6 @@ They also serve as proof of concept, for the variety of things that can be built
   - [Mermaid](https://nextra.site/docs/guide/mermaid)
 
 ## CMS
-
 - [VitePress](https://vitepress.vuejs.org/)
   - [Plugin for Mermaid.js](https://emersonbottero.github.io/vitepress-plugin-mermaid/)
 - [VuePress](https://vuepress.vuejs.org/)
@@ -81,7 +81,6 @@ They also serve as proof of concept, for the variety of things that can be built
   - [GitLab Markdown Adapter](https://github.com/Goutte/grav-plugin-gitlab-markdown-adapter)
 
 ## Communication
-
 - [Discourse](https://discourse.org)
   - [Mermaid Plugin](https://github.com/pnewell/discourse-mermaid), [And](https://github.com/unfoldingWord-dev/discourse-mermaid)
 - [Mattermost](https://mattermost.com/)
